@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Pending</string>
 	<key>scope</key>
-	<string>markup.list.pending.tasks</string>
+	<string>text.tasks markup.list.pending.tasks</string>
 	<key>settings</key>
 	<dict/>
 	<key>uuid</key>

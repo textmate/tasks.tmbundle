@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Style: Completed</string>
 	<key>scope</key>
-	<string>markup.list.completed.tasks</string>
+	<string>text.tasks markup.list.completed.tasks</string>
 	<key>settings</key>
 	<dict>
 		<key>fontStyle</key>
